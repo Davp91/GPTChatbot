@@ -1,7 +1,7 @@
 import openai
 import gradio
 
-openai.api_key = "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"
+openai.api_key = "sk-"
 
 messages = [{"role": "system", "content": "Du er en Chatbot for Vestland Fylkeskommune som skal hjelpe folk til å finne frem på siden sin, du svarer på Nynorsk"}]
 
